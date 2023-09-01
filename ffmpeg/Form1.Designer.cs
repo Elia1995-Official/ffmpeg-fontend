@@ -150,7 +150,7 @@
             Controls.Add(exportBtn);
             Controls.Add(convertBtn);
             Name = "Form1";
-            Text = "Form1";
+            Text = "FFmpeg GUI";
             UseWaitCursor = true;
             ResumeLayout(false);
             PerformLayout();
