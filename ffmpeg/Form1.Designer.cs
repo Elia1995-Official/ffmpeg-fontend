@@ -45,9 +45,9 @@
             convertBtn.FlatStyle = FlatStyle.Flat;
             convertBtn.Location = new Point(28, 226);
             convertBtn.Name = "convertBtn";
-            convertBtn.Size = new Size(122, 23);
+            convertBtn.Size = new Size(134, 23);
             convertBtn.TabIndex = 0;
-            convertBtn.Text = "Conver VFR to CBR";
+            convertBtn.Text = "Convert VFR to CBR";
             convertBtn.UseVisualStyleBackColor = true;
             convertBtn.UseWaitCursor = true;
             convertBtn.Click += convertBtn_Click;
